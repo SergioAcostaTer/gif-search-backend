@@ -1,0 +1,13 @@
+POST http://localhost:4000/handleLogin/Sergosta%20Quintana%20(SerguitoPlay)/tracktreck999@gmail.com/https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FALm5wu1NMSRqSI3TPwzX4JilA0RrkJuq4lWHTR66z9nVsQ%3Ds96-c/true
+
+###
+POST http://localhost:4000/addgif/6UBfhTs9WY9zCkZTepV9FLfOP0pfxitsT9gT7WDdJdCDeRD6A9lKoy6jbJSrzQTP
+Content-Type: application/json
+
+{
+    "gif": {"name":"tumadre a 10"}
+}
+###
+
+GET http://localhost:4000/getFavourites/W8J1OCesv2kQIhsD670InkpMPkE4KYvVquR1VRhQoyFeWic9WAUbAh1D9qqf4X69
+
