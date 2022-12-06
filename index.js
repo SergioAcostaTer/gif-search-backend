@@ -33,6 +33,9 @@ app.use("/", addGif);
 app.use("/", removeGif);
 app.use("/", getFavourites);
 app.use("/", checkFavourite);
+app.get("/", (req, res) => {
+  res.send("works")
+})
 
 
 //listening port

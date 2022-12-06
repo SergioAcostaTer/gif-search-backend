@@ -9,5 +9,5 @@ Content-Type: application/json
 }
 ###
 
-GET http://localhost:4000/getFavourites/W8J1OCesv2kQIhsD670InkpMPkE4KYvVquR1VRhQoyFeWic9WAUbAh1D9qqf4X69
+GET https://backend-gif.herokuapp.com/getFavourites/W8J1OCesv2kQIhsD670InkpMPkE4KYvVquR1VRhQoyFeWic9WAUbAh1D9qqf4X69
 
